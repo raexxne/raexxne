@@ -16,7 +16,10 @@
 - 🎓 Cybersecurity student at **UNIVERSITY POLY-TECH MALAYSIA (UPTM)**
 - 📚 Currently learning **Web Development (HTML, CSS, JS), Python, Git & GitHub**
 - 🎯 Goal: To become a full-stack developer and contribute to open source
-- 🌐 Portfolio: [raexxne.github.io](https://raexxne.github.io)
+### 🌐 Check out my full work!
+<a href="https://raexxne.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/View%20My%20Portfolio-24283b?style=for-the-badge&logo=codeforces&logoColor=7aa2f7&labelColor=1a1b26" alt="Portfolio Website" />
+</a>
 
 ---
 
