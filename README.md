@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">Hi there! I'm RAELINE PHILETMON 👋</h1>
-<h3 align="center">Aspiring Software Developer & Computer Science Student</h3>
+<h3 align="center">Aspiring Cybersecurity Student</h3>
 
 <p align="center">
   <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
