@@ -68,12 +68,14 @@
 
 ## 🎮 Play My Snake Game!
 
-<a href="https://raexxne.github.io/snake-game/" target="_blank">
-  <img src="https://github.com/raexxne/raexxne/blob/main/snakegame.gif" alt="Snake Game Preview" width="600"/>
-</a>
+<p align="center">
+  <a href="https://raexxne.github.io/snake-game/" target="_blank">
+    <img src="https://github.com/raexxne/raexxne/raw/main/snakegame.gif" alt="Snake Game Preview" width="400"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=raexxne" />
 </p>
