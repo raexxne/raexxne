@@ -46,6 +46,9 @@
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=raexxne&show_icons=true&theme=tokyonight" alt="raexxne's GitHub Stats" />
+
+  <br />
+  <br />
   
   <img src="https://streak-stats.demolab.com?user=raexxne&theme=tokyonight" alt="raexxne's GitHub Streak" />
   
