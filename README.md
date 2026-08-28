@@ -13,7 +13,7 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓 Computer Science student at **UNIVERSITY POLY-TECH MALAYSIA (UPTM)**
+- 🎓 Cybersecurity student at **UNIVERSITY POLY-TECH MALAYSIA (UPTM)**
 - 📚 Currently learning **Web Development (HTML, CSS, JS), Python, Git & GitHub**
 - 🎯 Goal: To become a full-stack developer and contribute to open source
 - 🌐 Portfolio: [raexxne.github.io](https://raexxne.github.io)
