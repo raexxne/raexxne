@@ -13,7 +13,7 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓 Cybersecurity student at **UNIVERSITY POLY-TECH MALAYSIA (UPTM)**
+- 🎓 Computer Science student at **UNIVERSITY POLY-TECH MALAYSIA (UPTM)**
 - 📚 Currently learning **Web Development (HTML, CSS, JS), Python, Git & GitHub**
 - 🎯 Goal: To become a full-stack developer and contribute to open source
 - 🌐 Portfolio: [raexxne.github.io](https://raexxne.github.io)
@@ -48,10 +48,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=raexxne&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raexxne&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raexxne&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -77,5 +77,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=raexxne" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername" />
 </p>
