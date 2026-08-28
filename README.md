@@ -69,7 +69,7 @@
 ## 🎮 Play My Snake Game!
 
 <a href="https://raexxne.github.io/snake-game/" target="_blank">
-  <img src="https://raw.githubusercontent.com/raexxne/snake-game/main/preview.gif" alt="Snake Game Preview" width="600"/>
+  <img src="https://github.com/raexxne/raexxne/blob/main/snakegame.gif" alt="Snake Game Preview" width="600"/>
 </a>
 
 ---
