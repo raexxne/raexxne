@@ -45,11 +45,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raexxne&show_icons=true&theme=tokyonight" alt="raexxne's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raexxne&theme=tokyonight" alt="raexxne's GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=raexxne&show_icons=true&theme=tokyonight" alt="raexxne's GitHub Stats" />
+  
+  <img src="https://streak-stats.demolab.com?user=raexxne&theme=tokyonight" alt="raexxne's GitHub Streak" />
+  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raexxne&layout=compact&theme=tokyonight" alt="raexxne's Top Languages" />
+  
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=raexxne&layout=compact&theme=tokyonight" alt="raexxne's Top Languages" />
 </div>
 
 ---
