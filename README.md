@@ -37,14 +37,6 @@
 
 ---
 
-## 📌 Projects
-
-- 🔗 [**Project Website Burger Queen**](https://github.com/yourusername/project1) – A website to guide customer to buy burger and other food available.
-- 🔗 [**Project Campus Management**](https://github.com/yourusername/project2) – It's all about to manage students in a campus.
-- 🌐 [**Portfolio Website**](https://yourusername.github.io) – Haven't start yet.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
