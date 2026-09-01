@@ -9,6 +9,10 @@
   <a href="https://github.com/raexxne"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="mugiwara.gif" alt="Welcome GIF" width="400" />
+</p>
+
 ---
 
 ## 👨‍🎓 About Me
