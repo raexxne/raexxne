@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="mugiwara2.gif" alt="Welcome GIF" width="400" />
+  ✧･ﾟ: *✧･ﾟ:* <img src="mugiwara2.gif" alt="Welcome GIF" width="400" /> *:･ﾟ✧*:･ﾟ✧
 </p>
 
 ---
